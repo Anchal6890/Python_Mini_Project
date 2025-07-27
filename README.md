@@ -22,4 +22,17 @@ a smooth workflows for managing personal tasks right from the terminal.
 
 ### 🛠️ How to Run:
 ```bash
-python
+python To- do-list-cli.py
+```
+
+### 📁 Folder Structure 
+```
+To-Do-List-CLI-App/
+├── todo_list_cli.py      # Main Python script
+├── tasks.json            # Data file to store tasks
+└── README.md             # Project documentation
+```
+
+### 🧠 What I Leaned:
+- Writing clean Python code using functions
+- Reading/writing JSON files for saving data
