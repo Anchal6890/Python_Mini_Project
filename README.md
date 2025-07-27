@@ -75,7 +75,27 @@ Contact-Book/
 
 ### 📒 3. File Organizer Script
 📄 Description:
+This scripts help organize messy folders by automatically moving files into cateogarized folers based on their file extensions.
 
+### ⚙ Features:
+- Automatically detects file extensions
+- Works with any folder path
+
+### 💻 Tech Stack:
+- Python
+- os module
+- shutil module
+
+### 🛠️ How to Run:
+```bash
+python File_organizer.py
+
+### 📁 Folder Structure 
+```
+Contact-Book/
+├── File_organizer.py      
+└── README.md             
+```
 
 
 
