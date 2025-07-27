@@ -7,8 +7,19 @@ The To-Do List Cli App is a simple command-line interface applicatication built 
 It allows user to add,view,mark,and delete tasks from their daily to-do list. The app ensures 
 a smooth workflows for managing personal tasks right from the terminal.
 
-⚙ Features:
+### ⚙ Features:
+- Add new tasks 
+- View all tasks 
+- Mark task as completed
+- Delete tasks
+- Save tasks as .json file(data persistence)
 
 
+### 💻 Tech Stack:
+- Python (Core)
+- JSON (for storing task data)
 
 
+### 🛠️ How to Run:
+```bash
+python
