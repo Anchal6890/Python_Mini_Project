@@ -1,6 +1,6 @@
 # Python_Mini_Project
 
-🧾 1. To-Do List CLI App
+### 🧾 1. To-Do List CLI App
 
 📄 Description:
 The To-Do List Cli App is a simple command-line interface applicatication built using Python.
