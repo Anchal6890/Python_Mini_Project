@@ -98,6 +98,15 @@ File Organizer/
 └── README.md             
 ```
 
+### 🛠 Tools Used
+- Pydroid 3* (for writing and testing code on Android)
+- VS Code* (for editing and organizing files)
+- Python IDLE* (for debugging on Windows)
+
+
+
+
+
 
 
 
