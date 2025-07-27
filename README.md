@@ -89,10 +89,11 @@ This scripts help organize messy folders by automatically moving files into cate
 ### 🛠️ How to Run:
 ```bash
 python File_organizer.py
-
-### 📁 Folder Structure 
 ```
-Contact-Book/
+
+### 📁 Folder Structure: 
+```
+File Organizer/
 ├── File_organizer.py      
 └── README.md             
 ```
