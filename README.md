@@ -67,8 +67,16 @@ Contact-Book/
 ### 🧠 What I Learned:
 - How to create a menu-driven CLI app using loops and conditions
 - How to use Python functions to keep code modular and reusable
-- How to implement basic CRUDoperations:
-- 
+- How to implement basic CRUD operations:
+- Create(add contacts)
+- Read(view/search contacts)
+- Update(modify existing contact)
+- Delete(remove contact)
+
+### 📒 3. File Organizer Script
+📄 Description:
+
+
 
 
 
